@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JanWoldstad
-- 👀 I’m interested in Finance, Business, Computers, Programming,  
-- 🌱 I’m currently learning Python, react, Javascript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me should be obvious - twitter.com/JanWoldstad
+- 👀 I’m interested in Finance, Business, Computers, Programming and AI.  
+- 🌱 I do stuff with Python, react, next/javascript and LLMs.
+- 💞️ I’m looking to collaborate on cool stuff!
+- 📫 How to reach me - twitter.com/JanWoldstad
 
 <!---
 JanWoldstad/JanWoldstad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
